@@ -1,4 +1,4 @@
-import { Logo } from "../../components"; // Adjust the import path based on your actual structure
+import { Logo } from "../../components"; 
 
 function Footer() {
   return (
